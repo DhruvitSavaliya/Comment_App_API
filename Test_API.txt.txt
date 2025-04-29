@@ -1,0 +1,8 @@
+Using Postman or browser:
+
+GET: http://127.0.0.1:8000/api/comments/
+
+POST: http://127.0.0.1:8000/api/comments/add/
+
+DELETE: http://127.0.0.1:8000/api/comments/delete/<id>/
+
